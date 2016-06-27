@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MultiSelectDialog</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="frag_tittle">Choose Fruits</string>
+    <string name="select_fruits">Select Fruits</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="fruit_list">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Papaya</item>
+        <item>Sapota</item>
+    </string-array>
+    <string-array name="counter">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
